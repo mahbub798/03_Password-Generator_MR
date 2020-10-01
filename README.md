@@ -42,6 +42,8 @@ The following image shows the web application's appearance and functionality:
 
 ## Link to deployed application
 
+https://mahbub798.github.io/03_Password-Generator_MR/
+
 
 
 
